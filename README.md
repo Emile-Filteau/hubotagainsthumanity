@@ -19,8 +19,11 @@ Then add **hubot-hubotagainsthumanity** to your `external-scripts.json`:
 ```
 
 You need to add 3 environment variables to run this script :
+
 HAH_GAME_CHANNEL   : Channel name for interaction with the game
+
 HAH_SERVER_ADDRESS : Backend Server Address
+
 HAH_SECRET         : Shared secret with the backend server so you can actually make requests
 
 ## Sample Interaction
